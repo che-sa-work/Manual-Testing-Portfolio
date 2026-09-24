@@ -18,8 +18,8 @@ defect management, and test reporting.
 
 ## Contents
 
-/test-plan(https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-plan/test-plan.md)
-/test-scenarios(https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-scenarios/test-scenarios.md)
-/test-cases(https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-cases/test-cases.md)
-/bug-reports(https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/bug-reports/bug-reports.md)
-/test-summary-report(https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-summary-report/test-summary-report.md)
+[/test-plan](https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-plan/test-plan.md)
+[/test-scenarios](https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-scenarios/test-scenarios.md)
+[/test-cases](https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-cases/test-cases.md)
+[/bug-reports](https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/bug-reports/bug-reports.md)
+[/test-summary-report](https://github.com/che-sa-work/Manual-Testing-Portfolio/blob/main/test-summary-report/test-summary-report.md)
